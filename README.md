@@ -252,7 +252,7 @@ def process_csv_and_generate_content(cloud_event):
             HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_MEDIUM_AND_ABOVE,
             HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_MEDIUM_AND_ABOVE,
         }
-        text_model = GenerativeModel("gemini-1.0-pro", safety_settings=safety_settings)
+        text_model = GenerativeModel("gemini-2.5-pro", safety_settings=safety_settings)
         # MODIFICATION: Use GenerativeModel for image generation
         image_model = GenerativeModel("gemini-2.5-flash-image")
         logging.info("Successfully initialized clients and Vertex AI models for this invocation.")
