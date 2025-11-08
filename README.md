@@ -445,7 +445,8 @@ product_name,keywords
 "Oganiru Solar Generator","silent inverter, fuel-free power, charge laptops and TV, solar panel included"
 "Ije Pro Backpack","Onitsha market-proof, anti-theft design, padded laptop sleeve, heavy-duty zippers"
 "Anwụnta Guard Zapper","mosquito killer, insect trap, child-safe, low-power, no chemicals"
-"Aku Business Box","trader's cash safe, durable lock, sales record book, fire-resistant"```
+"Aku Business Box","trader's cash safe, durable lock, sales record book, fire-resistant"
+```
 
 ### 4.2. Upload the File to Cloud Storage
 
