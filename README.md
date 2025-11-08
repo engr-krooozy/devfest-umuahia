@@ -438,15 +438,14 @@ Let's see our creation in action!
 
 ```csv
 product_name,keywords
-"TerraTrek Hiking Boots","waterproof, breathable, all-terrain grip"
-"PowerStack Go","portable charger, 20000mAh, fast-charging, multi-device"
-"FitTrack Pro Watch","heart rate monitor, GPS, sleep tracking"
-"Gourmet Grind Coffee Maker","built-in burr grinder, programmable, thermal carafe"
-"RoboVac Plus","robotic vacuum, smart mapping, self-emptying"
-"Voyager Travel Backpack","anti-theft, laptop compartment, water-resistant"
-"PureAir Purifier","HEPA filter, quiet operation, smart sensor"
-"FlexiDesk Stand","adjustable height, ergonomic, standing desk converter"
-```
+"Udi Walker Boots","rainy season ready, laterite grip, mud-resistant, for trekking Udi hills"
+"Ike Go Power Bank","NEPA-proof, 20000mAh, charge phone and fan, long-lasting"
+"Ozi Health Watch","heart rate monitor, GPS for routes, sweat-resistant, sleep tracking"
+"Aba Grind Master","grinds egusi crayfish and ogbono, dry & wet grinding, durable blades, market-grade"
+"Oganiru Solar Generator","silent inverter, fuel-free power, charge laptops and TV, solar panel included"
+"Ije Pro Backpack","Onitsha market-proof, anti-theft design, padded laptop sleeve, heavy-duty zippers"
+"Anwụnta Guard Zapper","mosquito killer, insect trap, child-safe, low-power, no chemicals"
+"Aku Business Box","trader's cash safe, durable lock, sales record book, fire-resistant"```
 
 ### 4.2. Upload the File to Cloud Storage
 
