@@ -684,6 +684,7 @@ bq rm -r -f --dataset ${PROJECT_ID}:${BQ_DATASET}
 
 echo "Cleanup complete. All resources have been deleted."
 ```
-
+---
+Google Cloud credits are provided for this project. #AISprint #AISprintH2 #AISprint2025
 
 **Thank you for participating in the workshop!**
