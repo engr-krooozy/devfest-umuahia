@@ -24,7 +24,7 @@ You will build an automated content factory that reads product information from 
 
 We will build a resilient, multi-modal system with several Google Cloud services. The primary workflow is:
 
-`[User uploads CSV]` -> `Cloud Storage (Input)` -> `(triggers)` -> `Cloud Function`
+<img width="796" height="725" alt="Screenshot 2025-12-21 at 05 56 22" src="https://github.com/user-attachments/assets/62ca1cc5-a48d-4959-b255-a034df7f429d" />
 
 The Cloud Function then performs several actions:
 1.  Calls **Vertex AI (Gemini)** to generate text.
@@ -42,7 +42,7 @@ If any file fails during processing, it is automatically moved to a **Cloud Stor
 
 First, let's get your Google Cloud project and Cloud Shell ready.
 
-> **Prerequisite:** You need a Google Cloud account with billing enabled. You can also access the instrumentless credit [here](https://trygcp.dev/claim/accra-roadshow2)
+> **Prerequisite:** You need a Google Cloud account with billing enabled.
 
 ### 1.1. Activate Cloud Shell
 
